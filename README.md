@@ -10,10 +10,6 @@ The objective is to provide anyone with a easy-to-read and easy-to-use MicroPYth
 - Hue Bridgege Comunication
 
 
-## Future Features (Working in progress...)
-- Automatic Bridge Discovery
-- Automatic lights recongization
-- Possibility to controll groups (not only lights)
 
 ## Before Usage
 Before beeing able to use the code, you need to get:
@@ -39,7 +35,15 @@ Insert your WiFi Name and Password to allow WiFi acces
 into the "hub_id" variable insert your Hue Hub Id
 Meanwhile, into the "user_token" variable insert the username token you got from the "Hue API DEBUG TOOL"
 
+
+
 ### Debug Prints
 Feel free to de-comment, add or change the debug prints present in the code
 They are mostly used to view if the connection is stable, if the PUT request was succesful and eventually to handle exceptions.
 
+
+
+## Future Features (Work in progress...)
+- Automatic Bridge Discovery
+- Automatic lights recongization
+- Possibility to controll groups (not only lights)
