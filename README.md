@@ -1,7 +1,6 @@
-# MicroPy-Hue-Bridge
-The MicroPython easy-to-use code to control all your Philips Hue Devices via the Hue Bridge.
-The objective is to provide anyone with a easy-to-read and easy-to-use MicroPYthon code to interract with they Hue Hub.
-
+# MicroPython-Hue-Bridge-Connection
+The MicroPython easy-to-use MicroPython code to control all your Philips Hue Devices via the Hue Bridge, thank to a micropython programmable microcontroller (ex: Raspbery Pi Pico WH/W, ESP32, ESP8266, ecc...)
+The objective is to provide anyone with a easy-to-read and easy-to-use MicroPYthon code to interract with they Hue Hub, and easily controll they Hue Lights.
 
 
 ## Features
